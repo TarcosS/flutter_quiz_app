@@ -48,10 +48,10 @@ The Flutter Quiz App is a user-friendly and interactive quiz application built u
 # Pictures
 There are a few pictures on Quiz App.
 ## Splash Page
-<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p1.png" width="300px"/>
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/assets/github/p1.png" width="300px"/>
 
 ## Questions Page - Question Section
-<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p2.png" width="300px"/>
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/assets/github/p2.png" width="300px"/>
 
 ## Result Page
-<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p3.png" width="300px"/>
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/assets/github/p3.png" width="300px"/>
