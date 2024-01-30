@@ -1,16 +1,57 @@
-# flutter_quiz_app
+# **FLUTTER LEARNING - Quiz App**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/TarcosS/flutter_quiz_app.svg)](https://github.com/TarcosS/flutter_quiz_app/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/TarcosS/flutter_quiz_app.svg)](https://github.com/TarcosS/flutter_quiz_app/issues)
 
-A new Flutter project.
+The Flutter Quiz App is a user-friendly and interactive quiz application built using the Flutter framework. Designed for both educational and entertainment purposes, this app allows users to create, take, and share quizzes on a variety of topics.
+<br><br>
 
-## Getting Started
+## What Did I Learn?
+- <details>
+    <summary>TweenAnimationFlutter</summary>
+        A Flutter widget that animates a value from a start value to an end value over a specified duration.
+  </details>
+- <details>
+    <summary>SizedBox</summary>
+        A box with a specified size. It can be used to create space in your layout.
+  </details>
+- <details>
+    <summary>SingleChildScrollView</summary>
+        A box in which a single widget can be scrolled.
+  </details>
+- <details>
+    <summary>.styleFrom Property</summary>
+        Likely refers to the `ButtonStyle.from` method, which creates a `ButtonStyle` from simple values.
+  </details>
+- <details>
+    <summary>Aligment of Any Items</summary>
+        Likely refers to the alignment property in Flutter, which determines where a widget should be positioned within its parent widget.
+  </details>
+- <details>
+    <summary>State and Prop Usage</summary>
+        Refers to the use of stateful and stateless widgets in Flutter.
+  </details>
+- <details>
+    <summary>Lifecycle Management</summary>
+        Refers to handling the lifecycle of Flutter widgets, such as initialization and disposal.
+  </details>
+- <details>
+    <summary>Using `...` operator on dart</summary>
+        Refers to handling the lifecycle of Flutter widgets, such as initialization and disposal.
+  </details>
+- <details>
+    <summary>Creating a Model for Dumb Data</summary>
+        Refers to creating a data model, likely for mock data used during development.
+  </details>
+<br>
 
-This project is a starting point for a Flutter application.
+# Pictures
+There are a few pictures on Quiz App.
+## Splash Page
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p1.png" width="300px"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Questions Page - Question Section
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p2.png" width="300px"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Result Page
+<img src="https://github.com/TarcosS/flutter_quiz_app/blob/main/github/p3.png" width="300px"/>
